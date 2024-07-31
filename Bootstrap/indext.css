@@ -1,0 +1,26 @@
+
+body{
+    font-family: 'Battambang', Arial, Helvetica, sans-serif;
+}
+.box-sponser{
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+}
+.box-left-title h2{
+    font-size: 1.5rem;
+    line-height: 0.5rem;
+    font-weight: 700;
+    font-family: 'Battambang', Arial, Helvetica, sans-serif;
+}
+.box-left-title{
+    padding: 49px 49px 49px;
+}
+
+
+.w-8 {
+    width: 2rem;
+}
+hr{
+    color: black;
+}
